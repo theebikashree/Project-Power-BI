@@ -1,1 +1,1 @@
-Global Electronics wants to create a Total Sales report so that they can understand the customer growth, product insights and their store performance.
+Global Electronics wants to create a Total Sales report so that they can understand the customer growth, product insights and their store performance. Global Electronics wants to know the Total sales So, that they can know the growth of the company and they can get to know about the customers top selling product and they can also get to know more about the stores like which stores have the highest selling rate and all that.
